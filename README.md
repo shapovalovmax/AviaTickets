@@ -1,1 +1,3 @@
 # AviaTickets
+
+Client-server application
